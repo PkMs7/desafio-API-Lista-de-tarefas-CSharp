@@ -28,3 +28,7 @@ Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
 
 ![Métodos Swagger](src/Img/swagger.png)
+
+## Conclusão do Desafio com as minhas soluções
+
+![Métodos Swagger v.Patrick](src/Img/MeuDesafioConclu%C3%ADdo.JPG)
